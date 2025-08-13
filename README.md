@@ -50,7 +50,6 @@
 Пример:
 Выбрав ROAS 2, экспортируются все поисковые термины с ROAS >2.
 Выбрав CPA 10, экспортируются все поисковые термины с CPA <10.
-Нажмите «Preview» и следите за «Logs» :)
+Нажмите «Preview» и следите за «Logs»
 
-
-
+[Статья](https://adcrease.nl/article/google-ads-script-keyword-expander/)
