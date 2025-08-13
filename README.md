@@ -52,4 +52,4 @@
 Выбрав CPA 10, экспортируются все поисковые термины с CPA <10.
 Нажмите «Preview» и следите за «Logs»
 
-[Статья](https://adcrease.nl/article/google-ads-script-keyword-expander/)
+[Статья](https://adcrease.nl/article/google-ads-script-keyword-expander/ "Перейти на статью")
